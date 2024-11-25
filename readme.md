@@ -40,7 +40,7 @@
 共计建造超过 100,000 方块，建造时间长达约一年。
 
 <h3>使用工具</h3>
-<li>Axiom模组</li>
+<li>Axiom模组（https://github.com/Moulberry/AxiomDocumentation）</li>
 
 <h3>注意事项</h3>
 <i>存档包含大量被用于美化建筑的方块实体，低配置电脑可能在游玩时会出现卡顿、掉帧等问题。</i>
