@@ -1,3 +1,5 @@
+![Web 1280 – 1](https://github.com/user-attachments/assets/a26ad9c3-4610-409e-ac60-1f151afea4ca)
+
 <h1>柳州市第十五中学总部（滨江校区）MC复刻存档库</h1>
 
 我们已将已有的正式版存档数据包打包并存放在该仓库进行保存以供下载。<br><br>
