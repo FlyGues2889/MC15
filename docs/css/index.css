@@ -1,0 +1,85 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+
+    font-family: 'HMOS SC', sans-serif;
+}
+
+mdui-top-app-bar {
+    background-color: rgb(var(--mdui-color-surface-container));
+    font-family: 'Google Sans';
+}
+
+.main {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 2rem;
+}
+
+.content {
+    padding-top: 4rem;
+
+    .title-container {
+        text-align: center;
+        margin-bottom: 1rem;
+
+        .title {
+            font-family: 'Google Sans';
+            margin: 0;
+            letter-spacing: 4px;
+            color: rgb(var(--mdui-color-primary));
+        }
+
+        h5 {
+            text-align: center;
+        }
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    .content {
+        padding: 5rem !important;
+    }
+}
+
+div.container {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+        width: 80%;
+        max-width: 64rem;
+
+        border-radius: 1.8rem;
+        /* border: 0.2rem solid #000000; */
+        background-color: rgb(var(--mdui-color-surface-container));
+    }
+}
+
+mdui-divider {
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+img.map {
+    background-color: rgb(var(--mdui-color-secondary));
+    padding: 1rem;
+    width: 90%;
+    max-width: 24rem;
+    border-radius: 2rem;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+span.num {
+    font-family: 'Google Sans B';
+    font-size: larger;
+}

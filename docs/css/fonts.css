@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'HMOS SC';
+    src: url(../fonts/HarmonyOS_Sans_SC_Regular.ttf);
+}
+@font-face {
+    font-family: 'HMOS SC B';
+    src: url(../fonts/HarmonyOS_Sans_SC_Black.ttf);
+}
+@font-face {
+    font-family: 'HMOS SC M';
+    src: url(../fonts/HarmonyOS_Sans_SC_Medium.ttf);
+}
+@font-face {
+    font-family: 'Google Sans';
+    src: url(../fonts/Product_Sans_Regular.ttf);
+}
+@font-face {
+    font-family: 'Google Sans B';
+    src: url(../fonts/Product_Sans_Bold.ttf);
+}
