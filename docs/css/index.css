@@ -45,6 +45,12 @@ mdui-top-app-bar {
     }
 }
 
+@media screen and (min-width: 1024px) {
+    .content {
+        padding: 10rem !important;
+    }
+}
+
 div.container {
     width: 100%;
     height: fit-content;
